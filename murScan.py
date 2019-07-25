@@ -1,3 +1,6 @@
+#-*- Coding utf-8 -*-
+#Autor: Murilo "Mur" Geraldini
+
 import socket, sys, os
 
 def scan(ip, port):
